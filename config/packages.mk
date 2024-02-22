@@ -31,10 +31,10 @@ PRODUCT_PACKAGES += \
 # RevengeOS packages
 PRODUCT_PACKAGES += \
     QKSMS \
-    RetroMusicPlayer \
+    Gramophone \
     RevengeOSCalculator \
     SimpleWeather \
-    SimpleGalleryPro \
+    GalleryGo \
     Etar \
     ViaBrowser \
     WeatherProvider
